@@ -1,5 +1,5 @@
-ys=int(input())
-if ys%4==0:
-   print("yes")
+new1=int(input())
+if(new1%4==0):
+  print("yes")
 else:
-   print("no")
+  print("no")
