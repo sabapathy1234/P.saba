@@ -1,3 +1,3 @@
-x=int(input())
+x1=int(input())
 for i in range(1,6):
-    print(i*x,end=" ")
+    print(i*x1,end=" ")
