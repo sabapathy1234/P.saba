@@ -1,7 +1,7 @@
-in2,in3,in34= map(int,input().split())
-if(in2<=in3<=in4):
-    print(in4)
-elif(in2<=in4<=in3):
-    print(in3)
+b4,b5,b6=input().split()
+if b5>b6:
+   print(b5)
+elif b4>b5 and b4>b6:
+   print(b4)
 else:
-    print(in2)
+   print(b6)
