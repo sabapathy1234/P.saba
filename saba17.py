@@ -1,0 +1,12 @@
+num1=int(input())
+x=num1
+y=0
+while(num1>0):
+	var=num1%10
+	num1=num1//10
+	var1=var**3
+	y=y+var1
+if(x==y):
+	print("yes")
+else:
+	print("no")
