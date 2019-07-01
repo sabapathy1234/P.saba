@@ -1,0 +1,5 @@
+a1,b1=map(int,input().split())
+c1,d1=map(int,input().split())
+n=a1b1s(a1-c1)
+n1=a1b1s(b1-d1)
+print(n,n1)
