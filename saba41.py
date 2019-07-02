@@ -1,3 +1,6 @@
-ch23,fi=input().split()
-ch23,fi=fi,ch23
-print(ch23,fi)
+x11,y11=map(int,input().split())
+temp=[]
+temp=x11
+x11=y11
+y11=temp
+print(x11,y11)
