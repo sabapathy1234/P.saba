@@ -1,2 +1,2 @@
-ch11=input()
-print(ch11.count(".")+1)
+a11=input()
+print(a11.count(' '))
