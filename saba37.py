@@ -1,2 +1,2 @@
-g11=str(input())
-print(g11.count('.')+1)
+ch11=input()
+print(ch11.count(".")+1)
