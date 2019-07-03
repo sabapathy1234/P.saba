@@ -1,5 +1,5 @@
-num12=int(input())
-if(num12<10 and num>120):
+n12=int(input())
+if n12 in range(1,10):
     print("yes")
 else:
     print("no")
