@@ -1,9 +1,9 @@
-z23,w23=input().split()
-g23=len(str(z23))
-l23=len(str(w23))
-if(g23>l):
-  print(z23)
-elif(g23==l):
-  print(w23)
+va13,va23=input().split()
+l13=len(va13)
+l23=len(va23)
+if l13>l23:
+    print(va13)
+elif l23>l13:
+    print(va23)
 else:
-  print(w23)
+    print(va23)
