@@ -1,4 +1,3 @@
-c1,f1=input().split()
-f1=int(f)
-for i in range(f1):
- print(c1)
+z12,w12=input().split()
+for i in range(0,int(w12)):
+   print(z12)
