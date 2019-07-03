@@ -1,0 +1,5 @@
+n23=int(input())
+m23=list(map(int,input().split()))
+i23=min(m23)
+j23=max(m23)
+print(i23,j23)
