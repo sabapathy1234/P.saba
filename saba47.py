@@ -1,0 +1,9 @@
+z23,w23=input().split()
+g23=len(str(z23))
+l23=len(str(w23))
+if(g23>l):
+  print(z23)
+elif(g23==l):
+  print(w23)
+else:
+  print(w23)
