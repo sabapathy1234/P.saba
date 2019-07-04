@@ -1,5 +1,5 @@
-saba=int(input())
-sum=0
-for i in range(saba+1):
-   sum+=i
-print(sum)
+hj23=int(input())
+gk=0
+for u in range(1,hj23+1):
+ gk=gk+u
+print(gk)
