@@ -1,5 +1,6 @@
-ss1,sa2=input().split()
-if (int(z1)-int(sa2))%2==0:
-    print("even")
+p11,p22=map(int,input().split())
+r33=p11-p22
+if((r33%2)==0):
+ print("even")
 else:
-    print("odd")
+  print("odd")
