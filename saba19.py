@@ -1,5 +1,7 @@
-num1=int(input())
-factorial=1
-for i in range(1,num1+1):
-  factorial=factorial*i
-print(factorial)
+num11=int(input())
+f1=1
+for i in range(1,num11+1):
+    if(i>=0):
+        f1=f1*i
+        i+=1
+print(f1)
