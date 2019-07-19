@@ -1,6 +1,5 @@
-sd2=int(input())
-fa=1
-for i in range(1,sd2+1):
-  if (i>=0):
-    fa=fa*i
-print(fa)
+num33 = int(input())
+fact=1
+for i in range(1,num33+1):
+    fact = fact*i
+print(fact)
