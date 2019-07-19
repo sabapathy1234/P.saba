@@ -1,4 +1,4 @@
 num11 = int(input())
-m = str(num11)
-n = m[::-1]
-print(int(n))
+m11 = str(num11)
+n11 = m11[::-1]
+print(int(n11))
