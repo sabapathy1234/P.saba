@@ -1,9 +1,9 @@
-n1 = int(input())
-lst = [x for x in input().split()]
+n9 = int(input())
+lst = [x9 for x in input().split()]
 lst1 = []
-for i in lst:
-    if lst.count(i) > 1:
-        lst1.append(i)
+for i9 in lst:
+    if lst.count(i9) > 1:
+        lst1.append(i9)
 if len(lst1) == 0:
     print('unique')
 else:
