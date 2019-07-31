@@ -1,8 +1,8 @@
-a9,b9=input().split()
-char=a9b9s(len(b9)-len(a9))
-for g in range(len(a9)):
-  if(len(b9)==1 and b9[g] in a9):
+s,j1=input().split()
+char=sj1s(len(j1)-len(s))
+for g in range(len(s)):
+  if(len(j)==1 and j1[g] in s):
     break
-  if(a9[g]!=b9[g]):
+  if(s[g]!=j1[g]):
     char=char+1
 print(char)
